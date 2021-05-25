@@ -16,7 +16,7 @@ public class ChatUDP extends JFrame {
     private final int FRM_WIDTH = 400;
     private final int FRM_HEIGHT = 400;
 
-    private final int PORT = 138;
+    private final int PORT = 9876;
     private final String IP_BROADCAST = "192.168.1.255";
 
 
